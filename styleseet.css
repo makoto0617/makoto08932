@@ -1,0 +1,32 @@
+.name{
+    
+}
+
+.top-wrapper{
+  padding-left: 5cm;
+}
+
+.rakuten{
+    color:brown;
+    float: left;
+    
+}
+
+
+.amazon{
+    color:yellow;
+    float: left;
+    
+}
+
+.facebook{
+    color:cornflowerblue;
+   float: left;
+}
+
+.my-acount{
+    float: left;
+    padding-left: 4cm;
+    padding-top: 1cm;
+}
+
